@@ -1,6 +1,3 @@
-# # 선택과제 27
-
-
 
 ## “Jenkins + docker 를 활용한 CICD구축”
 
